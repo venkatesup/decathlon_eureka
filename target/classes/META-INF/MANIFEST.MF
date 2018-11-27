@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Decathlon EurekaServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nani
+Implementation-Vendor-Id: com.decathloneureka
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/DecathlonEurekaServer
+Created-By: Maven Integration for Eclipse
+
